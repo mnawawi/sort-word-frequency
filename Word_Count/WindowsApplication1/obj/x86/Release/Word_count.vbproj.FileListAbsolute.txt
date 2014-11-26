@@ -1,0 +1,16 @@
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Release\WindowsApplication1.exe.config
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Release\WindowsApplication1.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Release\WindowsApplication1.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Release\WindowsApplication1.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\Word_count.vbproj.ResolveComReference.cache
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.MainForm.resources
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\Word_count.vbproj.GenerateResource.Cache
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+C:\Users\ir\Desktop\assigment for interview intel\Word_Count\WindowsApplication1\bin\x86\Release\WindowsApplication1.exe.config
+C:\Users\ir\Desktop\assigment for interview intel\Word_Count\WindowsApplication1\obj\x86\Release\Word_count.vbproj.ResolveComReference.cache
+C:\Users\ir\Desktop\assigment for interview intel\Word_Count\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\ir\Desktop\assigment for interview intel\Word_Count\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\ir\Desktop\assigment for interview intel\Word_Count\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Word_count", "WindowsApplication1\Word_count.vbproj", "{A7587D69-98B2-442B-B537-0F937552B2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|baru = Debug|baru
+		Debug|hai = Debug|hai
+		Debug|new = Debug|new
+		Debug|run = Debug|run
+		Debug|try = Debug|try
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|baru = Release|baru
+		Release|hai = Release|hai
+		Release|new = Release|new
+		Release|run = Release|run
+		Release|try = Release|try
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|baru.ActiveCfg = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|baru.Build.0 = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|hai.ActiveCfg = Debug|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|hai.Build.0 = Debug|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|new.ActiveCfg = Debug|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|new.Build.0 = Debug|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|run.ActiveCfg = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|run.Build.0 = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|try.ActiveCfg = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|try.Build.0 = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|x64.ActiveCfg = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|x64.Build.0 = Debug|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|x86.ActiveCfg = Debug|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Debug|x86.Build.0 = Debug|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|baru.ActiveCfg = Release|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|baru.Build.0 = Release|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|hai.ActiveCfg = Release|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|hai.Build.0 = Release|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|new.ActiveCfg = Release|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|new.Build.0 = Release|Any CPU
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|run.ActiveCfg = Release|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|run.Build.0 = Release|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|try.ActiveCfg = Release|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|try.Build.0 = Release|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|x64.ActiveCfg = Release|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|x64.Build.0 = Release|x64
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|x86.ActiveCfg = Release|x86
+		{A7587D69-98B2-442B-B537-0F937552B2FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
